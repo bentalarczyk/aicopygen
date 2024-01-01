@@ -19,7 +19,10 @@ The files [uuid].png and [uuid].html are created.
 
 AI Copy Generator is currently in the testing phase. If you enjoy AI Copy Generator please show your support to keep the project going. As of right now, we are accepting Bitcoin and Monero donations. Any support is greatly appreciated.
 
+***
+
 BTC - 169J1BmVV4Hf6s5nhbucx7XLRjTr9cS3PX\
 ![BTC](https://github.com/bentalarczyk/aicopygen/assets/153031033/7b469451-ce01-463d-8e29-f236630abaec)\
+***
 XMR - 89FbV2bMesiVavCYVpepkdGrSsoBruBLXNY6mJrRqUCp1eLVTe6kVAtQzkJbe8hhSvUbXNzpuMNsD2UrJtjPE4Y8UXKmnpR\
 ![XMR](https://github.com/bentalarczyk/aicopygen/assets/153031033/96edd469-0667-4303-928f-5a314ef1ee80)
