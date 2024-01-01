@@ -1,4 +1,14 @@
-# aicopygen
+# AI Copy Generator
+
+* AI Copy Generator is currently in the testing phase. If you enjoy AI Copy Generator please show your support to keep the project going. As of right now, we are accepting Bitcoin and Monero donations. Any support is greatly appreciated.
+
+BTC - 169J1BmVV4Hf6s5nhbucx7XLRjTr9cS3PX\
+<img width="200" alt="aicopygen_btc" src="https://github.com/bentalarczyk/aicopygen/assets/153031033/9a39c182-3bcb-4654-a12c-7f144d95b8d5">
+XMR - 89FbV2bMesiVavCYVpepkdGrSsoBruBLXNY6mJrRqUCp1eLVTe6kVAtQzkJbe8hhSvUbXNzpuMNsD2UrJtjPE4Y8UXKmnpR\
+![image](https://github.com/bentalarczyk/aicopygen/assets/153031033/96edd469-0667-4303-928f-5a314ef1ee80)
+
+***
+
 In the folder where you want to generate post (./) run the program.
 
 The files [uuid].png and [uuid].html are created.
