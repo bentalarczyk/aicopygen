@@ -15,9 +15,9 @@ The files [uuid].png and [uuid].html are created.
 <img width="1707" alt="7" src="https://github.com/bentalarczyk/aicopygen/assets/153031033/52f8e2cf-e279-4b7b-bff8-5c3a47c46c9b">
 <img width="1177" alt="8" src="https://github.com/bentalarczyk/aicopygen/assets/153031033/54821afe-ca8c-4e92-a29e-8d56775bc412">
 
-* AI Copy Generator is currently in the testing phase. If you enjoy AI Copy Generator please show your support to keep the project going. As of right now, we are accepting Bitcoin and Monero donations. Any support is greatly appreciated.
-
 ***
+
+AI Copy Generator is currently in the testing phase. If you enjoy AI Copy Generator please show your support to keep the project going. As of right now, we are accepting Bitcoin and Monero donations. Any support is greatly appreciated.
 
 BTC - 169J1BmVV4Hf6s5nhbucx7XLRjTr9cS3PX\
 ![BTC](https://github.com/bentalarczyk/aicopygen/assets/153031033/7b469451-ce01-463d-8e29-f236630abaec)\
